@@ -1,0 +1,30 @@
+target
+.cache-main
+.classpath
+eclimd.log
+.metadata
+*.xmi
+.gradle
+build
+.ensime
+.ensime_cache
+.settings
+.project
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# IntelliJ specific
+.idea
